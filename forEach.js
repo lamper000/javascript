@@ -1,5 +1,5 @@
 'use strict'
-// iterable: forEacj
+// iterable: forEach
 var a = [1,2,3];
 var m = new Map([['Michael',95],['Bob',75],['Tracy',85]]);
 var s = new Set([ 1,2,3,'3']);
